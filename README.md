@@ -1,1 +1,1 @@
-# itic
+# IoT using Vaman board.
